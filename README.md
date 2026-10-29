@@ -2,7 +2,7 @@
 
 **Disciplina:** Cloud Computing e DevOps Avançado  
 **Professor:** Ranghetti  
-**Equipe:** Isabely, Felipe do Nascimento e André Lucas
+**Equipe:** Isabely RA: 14611, Felipe do Nascimento RA:14568 e André Lucas RA:14156
 **Trabalho:** T7 — Observabilidade, disponibilidade e recuperação
 
 ---
