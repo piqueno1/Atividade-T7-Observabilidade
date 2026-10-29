@@ -2,7 +2,7 @@
 
 **Disciplina:** Cloud Computing e DevOps Avançado  
 **Professor:** Ranghetti  
-**Equipe:** Isabely e Felipe do Nascimento  
+**Equipe:** Isabely, Felipe do Nascimento e André Lucas
 **Trabalho:** T7 — Observabilidade, disponibilidade e recuperação
 
 ---
